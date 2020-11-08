@@ -1,5 +1,6 @@
 # vsCodesettings
-the file contains a simple configuration for python in vsCode. In this configuration vsCode activates 3 linters:
+Insert the file in the .vscode folder.
+The file contains a simple configuration for python in vsCode. In this configuration vsCode activates 3 linters:
 * pylint (with default rules)
 * flake8
 * pycodestyle
